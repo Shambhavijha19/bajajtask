@@ -1,11 +1,11 @@
 {
-  "name": "bajaj-bfhl-api",
+  "name": "bajajtask",
   "version": "1.0.0",
   "description": "Full Stack Developer Task - REST API for Bajaj Finserv Health",
-  "main": "server.js",
+  "main": "src/app.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js",
+    "start": "node src/app.js",
+    "dev": "node src/app.js",
     "test": "node test.js"
   },
   "keywords": [
